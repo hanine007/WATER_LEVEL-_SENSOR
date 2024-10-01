@@ -1,3 +1,10 @@
+
+![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-blue)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-IDE-orange)
+![Water Sensor](https://img.shields.io/badge/Water%20Sensor-Supported-brightgreen)
+![LCD Display](https://img.shields.io/badge/LCD%20Display-Supported-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # ESP32 Water Level Monitoring
  ## Description
 
